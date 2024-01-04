@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/6839acad2b.js" crossorigin="anonymous"></script> 
+    <title>Biotassel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class= "logo">
+           <img src="Screenshot_20231227-203508.jpg" alt=""> BioTassel
+        </div>
+        <label for="btn" class="icon">
+            <span class="fa fa-bars"></span>
+        </label>
+        <input type="checkbox" name="" id="btn">
+     <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li>
+            <label for="btn-1" class="show">Products<i class="fa-solid fa-angle-down"></i></label>
+            <a href="products.html" class="active">Products<i class="fa-solid fa-angle-down"></i></a>
+            <input type="checkbox" name="" id="btn-1">
+        <ul>
+            <li><a href="#">Hot Cups</a></li>
+            <li><a href="#">Tassel Plates</a></li>
+            <li><a href="#">Takeways</a></li>
+        </ul></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact Us</a></li>
+     </ul>
+
+    </nav>
+
+    <h1 style="font-size: 35px;text-align: center;color: #111;margin-top: 100px;
+    font-family: 'Poppins',Verdana, Geneva, Tahoma, sans-serif;">Our Products</h1>
+  
+</body>
+<script>
+    let products = null;
+    fetch('products.json')
+    .then(response => response.json())
+    .then(data => {
+        products = data;
+        console.log(products)
+    })
+</script>
+</html>

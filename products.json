@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+
+    {
+        "id": 2,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+
+    {
+        "id": 3,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+
+    {
+        "id": 4,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+
+    {
+        "id": 5,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+    {
+        "id": 6,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+    {
+        "id": 7,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    },
+    {
+        "id": 8,
+        "name":"Hot Cups",
+        "price":200,
+        "image":"Biotassel/",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+    }
+
+
+
+
+]
